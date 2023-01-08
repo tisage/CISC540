@@ -8,4 +8,4 @@ This repository is a collection of resources for a computational data analysis c
 Since 2021
 v 1.0
 
-Dr. Wang
+T. Wang, PhD
