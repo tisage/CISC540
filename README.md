@@ -5,7 +5,11 @@ This repository is a collection of resources for a computational data analysis c
 - Data
 - Figures
 
-Since 2021
-v 1.0
 
-T. Wang, PhD
+## More Information
+
+v 1.1
+
+## License
+
+Licensed under the MIT License, Since 2021, [T. W, PhD](https://github.com/tisage/).
