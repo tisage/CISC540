@@ -1,5 +1,5 @@
 # CISC540
-This repository is a collection of resources for a computational data analysis class, including data and figures used in labs and homeworks.
+This repository is a collection of resources for both CISC295 Introduction to Data Science and CSIC540 Computational Data Analysis course, including data and figures used in labs and homeworks.
 
 ## Outline
 - Data
@@ -8,7 +8,7 @@ This repository is a collection of resources for a computational data analysis c
 
 ## More Information
 
-v 1.1
+v 1.2
 
 ## License
 
